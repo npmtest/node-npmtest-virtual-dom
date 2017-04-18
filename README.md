@@ -1,7 +1,10 @@
-# test coverage for  [virtual-dom (v2.1.1)](https://github.com/Matt-Esch/virtual-dom)  [![npm package](https://img.shields.io/npm/v/npmtest-virtual-dom.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-virtual-dom) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-virtual-dom.svg)](https://travis-ci.org/npmtest/node-npmtest-virtual-dom)
+# npmtest-virtual-dom
+
+#### test coverage for  [virtual-dom (v2.1.1)](https://github.com/Matt-Esch/virtual-dom)  [![npm package](https://img.shields.io/npm/v/npmtest-virtual-dom.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-virtual-dom) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-virtual-dom.svg)](https://travis-ci.org/npmtest/node-npmtest-virtual-dom)
+
 #### A batched diff-based DOM rendering strategy
 
-[![NPM](https://nodei.co/npm/virtual-dom.png?downloads=true)](https://www.npmjs.com/package/virtual-dom)
+[![NPM](https://nodei.co/npm/virtual-dom.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/virtual-dom)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-virtual-dom/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-virtual-dom/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-virtual-dom/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-virtual-dom/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-virtual-dom/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-virtual-dom/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-virtual-dom/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-virtual-dom/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-virtual-dom/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-virtual-dom/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-virtual-dom%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-virtual-dom/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-virtual-dom/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-virtual-dom/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-virtual-dom/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-virtual-dom%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-virtual-dom/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-virtual-dom/build/test-report.html](https://npmtest.github.io/node-npmtest-virtual-dom/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-virtual-dom/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-virtual-dom/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-virtual-dom/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-virtual-dom/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-virtual-dom/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-virtual-dom/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-virtual-dom/build/screenCapture.npmPackageListing.svg)
 
@@ -27,12 +36,10 @@
 
 {
     "author": {
-        "name": "Matt-Esch",
-        "email": "matt@mattesch.info"
+        "name": "Matt-Esch"
     },
     "bugs": {
-        "url": "https://github.com/Matt-Esch/virtual-dom/issues",
-        "email": "matt@mattesch.info"
+        "url": "https://github.com/Matt-Esch/virtual-dom/issues"
     },
     "contributors": [
         {
@@ -81,13 +88,11 @@
     "main": "index",
     "maintainers": [
         {
-            "name": "mattesch",
-            "email": "matt@mattesch.info"
+            "name": "mattesch"
         }
     ],
     "name": "virtual-dom",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/Matt-Esch/virtual-dom.git"
